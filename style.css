@@ -5,7 +5,7 @@ header img {
 }
 
 #topic{
-    padding-top:10px;
+    padding-top:15px;
 }
 
 #content {
@@ -28,18 +28,18 @@ table th{
 	border: 1px solid black;
 }
 
-#noteven_1 {
-    background: #4682B4;
+#nech_1 {
+    background: #FF0000;
 }
-#noteven_2 {
-    background: #4682B4;
+#nech_2 {
+    background: #FF0000;
 }
-#noteven_3 {
-    background: #4682B4;
+#nech_3 {
+    background: #FF0000;
 }
-#even_1 {
-    background: #FFFF00;
+#ch_1 {
+    background: #7B68EE;
 }
-#even_2 {
-    background: #FFFF00;
+#ch_2 {
+    background: #7B68EE;
 }
