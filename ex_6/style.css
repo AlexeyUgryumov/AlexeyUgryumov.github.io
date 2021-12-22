@@ -1,0 +1,9 @@
+#property, #options{
+    display: none;
+}
+body{
+    background-image: url(background.jpg);
+}
+#first, #second, #third{
+    background-color: grey;
+}
