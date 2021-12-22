@@ -17,10 +17,10 @@ function getPriceOptions(amount, type, option) {
 				result.innerHTML = ((type + 1500) * amount);
 				break;
 			case "o2":
-				result.innerHTML = ((type + 15000) * amount);
+				result.innerHTML = ((type + 2500) * amount);
 				break;
 			case "o3":
-				result.innerHTML = ((type + 30000) * amount);
+				result.innerHTML = ((type + 5500) * amount);
 				break;
 		}
 	}
