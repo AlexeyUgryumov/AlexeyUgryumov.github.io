@@ -2,7 +2,7 @@
     display: none;
 }
 body{
-    background-image: url(background2.jpg);
+    background-image: url(background.jpg);
 }
 #first, #second, #third{
     background-color: grey;
